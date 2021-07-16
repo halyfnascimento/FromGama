@@ -31,3 +31,11 @@ Avaliação de compradores.
 Botão para voltar para a página principal
 
 termino 15 a 23/07/2021
+
+ferramentas utilizadas
+
+HTML 
+CSS
+BOOTSTRAP
+
+CRIADO POR: Kaleo Halyf
